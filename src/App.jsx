@@ -22,7 +22,7 @@ function App() {
             Learn React
           </a>
           <ButtonComponent btn='CLICCARE' />
-          <ImageComponent src='spider' alt='immagi'/>
+          <ImageComponent url='https://www.smartworld.it/wp-content/uploads/2021/07/spider-man.jpg' alt='immagine'/>
         </header>
       </div>
     </div>
